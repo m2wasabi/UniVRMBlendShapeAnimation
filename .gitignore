@@ -34,3 +34,13 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Intelij
+.idea/
+
+# Assets
+Assets/VRM/
+Assets/VRM.meta
+
+# misc
+Logs/
